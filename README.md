@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <b><i>"Building code like a ninja. Debugging like a psycho."</i></b><br/><b><i>"Learning languages currently."</i></b>
+  <b><i>"_CODER_ARTIST_BODYBUILDER_GAMER_"</i></b><br/><b><i>"Learning languages currently."</i></b>
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@ class Abhyudaya:
         self.code = ['Python', 'Java']
         self.tools = ['OpenCV', 'Git', 'After Effects']
         self.current_project = 'Hand Gesture Control with Mediapipe'
-        self.vibe = 'Professional Hacker with a heart of gold 🖤'
+        self.vibe = 'Trust me_I'm Not a sand in the desert'
 ```
 
 ---
