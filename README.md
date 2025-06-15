@@ -23,10 +23,19 @@
 ```python
 class Abhyudaya:
     def __init__(self):
-        self.code = ['Python', 'Java']
-        self.tools = ['OpenCV', 'Git', 'After Effects', 'Photoshop', 'VSCode', 'Notion']
-        self.current_project = 'Hand Gesture Control with Mediapipe'
-        self.vibe = 'Learning guitar n python this week'
+        currently_learning: ["Web3", "React", "Vue"]
+        Used = ['OpenCV', 'Git', 'After Effects', 'Photoshop', 'VSCode', 'Notion']
+        Current_project = 'Hand Gesture Control with Mediapipe'
+        located_in: "Uttar Pradesh, INDIA"
+        job: "Btech 1st year"
+        education: ["Bachelor in Technology with AI-ML"]
+        fields_of_interests(Tech): ["Still finding myself"]
+        technical_background: ["Basic python and java"]
+        currently_learning: ["Python", "Java", "and a little guitar + singing"]
+        will_learn: ["Css", "Docker", "HTML", "JavaScript", "ML", "Data Science", "C", "Anderoid APIs"..........]
+        hobbies: ["Football", "Anime/Movies", "Story/Competitive Gaming", "Singing/Dancing", "Sketching/Crafting", "Workout", "Swimming"]
+
+        i_love_the_feeling_of_fixing_the_code_after_hours_of_compiling
 ```
 
 ---
@@ -65,4 +74,13 @@ class Abhyudaya:
 </p>
 
 ---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=HACK+THE+MATRIX+%E2%9C%A8;THANKS+FOR+VISITING!+%F0%9F%92%BB;SEE+YOU+IN+THE+CODE+RAIN..." />
+</p>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif" width="100"/>
+</p>
 
