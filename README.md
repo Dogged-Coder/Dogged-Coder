@@ -2,28 +2,31 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/krishnaOP/krishnaOP/main/assets/hacker-coding.gif" width="100px" />
   <br/>
-  <span style="color:#00ff99">Hey, I'm Abhyudaya 👾</span>
+  <span style="color:#00ff99">Get to KNOW me 👽</span>
 </h1>
 
 <p align="center">
-  <b><i>"_CODER_ARTIST_BODYBUILDER_GAMER_"</i></b><br/><b><i>"Learning languages currently."</i></b>
+  <b><i>"Hiii ! I'm Abhyudaya"</i></b><br/><b><i>"_CODER_ARTIST_BODYBUILDER_GAMER_"</i></b><br/><b><i>"Learning languages currently."</i></b>
 </p>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lpNWhobHZtdmZvOWVvd29jNW1pc3ZsdWk1MGZ2MmwwdnNqMThvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" /><img src="https://github.com/user-attachments/assets/1c56848a-9be1-46fd-99af-dee2eca62911"width="80"/>
+ <img src="https://github.com/user-attachments/assets/fb8ade58-b2a2-4ed8-8e51-76b2553d7185"width="80" /> ----                   <img src="https://github.com/user-attachments/assets/1c56848a-9be1-46fd-99af-dee2eca62911"width="80"/>-----<img src="https://github.com/user-attachments/assets/40b5d7ac-88da-40ab-bca6-0902e845452e"width="80"/>
+<p align="center">
+  <i>just ignore the third one...</i>
+</p>
 
 </div>
 
 ---
 
-## 🧠 About Me
+#  **About Me **
 ```python
 class Abhyudaya:
     def __init__(self):
         self.code = ['Python', 'Java']
-        self.tools = ['OpenCV', 'Git', 'After Effects']
+        self.tools = ['OpenCV', 'Git', 'After Effects', 'Photoshop', 'VSCode', 'Notion']
         self.current_project = 'Hand Gesture Control with Mediapipe'
-        self.vibe = 'Trust me_I'm Not a sand in the desert'
+        self.vibe = 'Learning guitar n python this week'
 ```
 
 ---
@@ -52,6 +55,13 @@ class Abhyudaya:
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/after%20effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
   <img src="https://img.shields.io/badge/photoshop-31A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+</p>
+
+---
+---
+
+<p align="center">
+  <i>"Profile Views"</i></b><br/><i><img src="https://count.getloli.com/get/@KrishnaOP?theme=moebooru" />
 </p>
 
 ---
