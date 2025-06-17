@@ -1,0 +1,15 @@
+CodeLogs/
+│
+├── 01-Daily-Learnings/
+│   └── 2025-06-16.md  ← your daily learnings/notes
+│
+├── 02-Mini-Projects/
+│   ├── Air-Command-Gesture/
+│   └── Weather-App/
+│
+├── 03-Coding-Challenges/
+│   └── 2025-06-16-leetcode.py
+│
+├── auto_git_push.py  ← auto push bot
+├── push_log.txt      ← optional push tracker
+└── README.md         ← flex stats, links, logs
