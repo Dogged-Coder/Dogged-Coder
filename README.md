@@ -25,11 +25,11 @@ class Abhyudaya:
     def __init__(self):
         currently_learning: ["Web3", "React", "Vue"]
         Used = ['OpenCV', 'Git', 'After Effects', 'Photoshop', 'VSCode', 'Notion']
-        Current_project = 'Hand Gesture Control with Mediapipe'
+        Current_project = 'Python Coding Internship at Codsoft'
         located_in: "Uttar Pradesh, INDIA"
         job: "Btech 1st year"
         education: ["Bachelor in Technology with AI-ML"]
-        fields_of_interests(Tech): ["Still finding myself"]
+        fields_of_interests(Tech): ["No perticular intrest, Diving in and learning everything currently"]
         technical_background: ["Basic python and java"]
         currently_learning: ["Python", "Java", "and a little guitar + singing"]
         will_learn: ["Css", "Docker", "HTML", "JavaScript", "ML", "Data Science", "C", "Anderoid APIs"..........]
