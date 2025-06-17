@@ -73,6 +73,10 @@ class Abhyudaya:
   <i>"Profile Views"</i></b><br/><i><img src="https://count.getloli.com/get/@KrishnaOP?theme=moebooru" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ---
 
 
