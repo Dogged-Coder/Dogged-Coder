@@ -42,7 +42,7 @@ class Abhyudaya:
 
 ## 📡 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/Abhyudaya" target="_blank">
+  <a href="https://linkedin.com/in" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dogged.coder@gmail.com" target="_blank">
